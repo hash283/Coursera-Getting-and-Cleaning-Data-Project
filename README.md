@@ -1,9 +1,3 @@
----
-output: 
-  html_document: 
-    keep_md: yes
-    theme: cerulean
----
 ## Getting and Cleaning Data Project  
 This is the project for the Getting and Cleaning Data course at Coursera.The purpose is to prepare a tidy dataset that can be used for later analysis.The code for preparing data is in the run_analysis.R file.The final tidydata is in the tidydata.txt file.   
 The script run_analysis.R does the following:  
