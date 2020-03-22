@@ -46,9 +46,9 @@ output:
 #### 21.tbodygyromeanz
 >Represents the mean of body gyroscope signals in x,y,z direction.
 
-##### 22.tbodygyrostdevx
-##### 23.tbodygyrostdevy
-##### 24.tbodygyrostdevz
+#### 22.tbodygyrostdevx
+#### 23.tbodygyrostdevy
+#### 24.tbodygyrostdevz
 >Represents the standard deviation of body gyroscope signals in x,y,z direction.
 
 #### 25.tbodygyrojerkmeanx
@@ -116,9 +116,9 @@ output:
 #### 55.fbodygyromeanz
 >Represents the mean of body gyroscope signals in x,y,z direction.
 
-##### 56.fbodygyrostdevx
-##### 57.fbodygyrostdevy
-##### 58.fbodygyrostdevz
+#### 56.fbodygyrostdevx
+#### 57.fbodygyrostdevy
+#### 58.fbodygyrostdevz
 >Represents the standard deviation of body gyroscope signals in x,y,z direction.
 
 #### 59.fbodyaccelerationmagnitudemean
